@@ -7,9 +7,9 @@ The tests are performed to ensure the core functionality of the application work
 
 **Key Features**
 
-✅ Authentication
-✅ Search Employee
-✅ Employee Management
+✅ Authentication (Login)
+✅ Forgot Password
+✅ Directory
 
 **Requirements**
 
